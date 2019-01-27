@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bracha Goetz Collection of Books
 
-You can use the [editor on GitHub](https://github.com/yishairasowsky/Books/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There are currently 99 titles to choose from.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My favorite is the Happiness Box.
 
 ### Markdown
 
